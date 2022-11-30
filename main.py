@@ -1,0 +1,5 @@
+regdNo = input("12216268 : ")
+name = input("Suryansh Chandel : ")
+section = input("k22jl : ")
+phoneNo = input(9857104415)
+print("registration number is : " ,12216268, "\n", name, section, phoneNo)
